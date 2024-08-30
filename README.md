@@ -1,4 +1,4 @@
-V# Fala maluco🌹🐇🦡
+# Fala maluco🌹🐇🦡
 Oi é o Caio daora
 - Estou estudando na Alura, infelizmente
 - Estou me desenvolvendo na linguagem JavaScript, eu acho
